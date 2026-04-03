@@ -18,11 +18,11 @@ A personal portfolio website showcasing my web development projects, skills, and
 - **Version Control:** Git & GitHub
 - **Other:** AI/ML models for crop disease prediction
 ---
-<img width="1883" height="917" alt="Screenshot 2026-03-31 145453" src="https://github.com/user-attachments/assets/1dee08c6-fbed-433e-be26-24200bbdef02" />
-<img width="1886" height="906" alt="Screenshot 2026-03-31 145603" src="https://github.com/user-attachments/assets/6538a03e-e9c8-447a-90fd-83e94b4aef00" />
-<img width="1875" height="912" alt="Screenshot 2026-03-31 145620" src="https://github.com/user-attachments/assets/c63ffc6c-cfa7-4357-b228-7ce99cb1c743" />
-<img width="1879" height="914" alt="Screenshot 2026-03-31 145637" src="https://github.com/user-attachments/assets/e3bacc1f-0c4b-4c47-b306-d5732317a3c3" />
-<img width="1879" height="907" alt="Screenshot 2026-03-31 145652" src="https://github.com/user-attachments/assets/7f172133-1b36-4c8a-8c08-5cf2d0cf7f27" />
+<img width="1895" height="932" alt="Screenshot 2026-04-03 124437" src="https://github.com/user-attachments/assets/f52f0b82-87d0-430c-84ee-7e482e6b6911" />
+<img width="1886" height="918" alt="Screenshot 2026-04-03 124459" src="https://github.com/user-attachments/assets/c5f4f33f-38d0-4e6f-8d3d-04c7eb5b0a5f" />
+<img width="1886" height="907" alt="Screenshot 2026-04-03 124514" src="https://github.com/user-attachments/assets/4fc739e4-2dbf-4615-ba20-be86d31706cd" />
+<img width="1878" height="904" alt="Screenshot 2026-04-03 124532" src="https://github.com/user-attachments/assets/b308afca-8765-4a30-b72d-8dd0d829c781" />
+<img width="1872" height="914" alt="Screenshot 2026-04-03 124552" src="https://github.com/user-attachments/assets/55cd6e58-7cea-47a9-82fb-bdf7d87abae7" />
 
 ## Run Locally
 
